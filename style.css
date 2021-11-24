@@ -1,0 +1,36 @@
+body {
+    font-family: 'Calibri';
+    background-color: paleturquoise;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+  }
+
+    h1 {
+        display: block;
+        font-family: 'Calibri';
+        font-size: 3em;
+        font-weight: bold;
+    }
+
+ #firts-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ 
+  .photos {
+      height: 20%;
+      width: 20%;
+      border-width: 5px;
+      border-style: solid;
+      border-color: rgb(49, 44, 94);
+  }
+  
+ div {
+      text-align: center;    
+      float: left;
+      width: 25%;
+    }
+

@@ -1,6 +1,7 @@
-
-let photos = document.getElementByClassName("photos");
-function clickPopup() {
-  alert("woof woof");
+function addingEventListener() {
+const input = document.getElementById('first-picture');
+function clickAlert() {
+  alert('I was clicked!');
 }
-photos.addEventListener('click', clickPopup);
+input.addEventListener('click', clickAlert);
+}

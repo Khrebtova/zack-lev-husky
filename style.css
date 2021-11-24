@@ -20,9 +20,9 @@ body {
     margin-right: auto;
 }
  
-  .photos {
-      height: 20%;
-      width: 20%;
+  #photos {
+      height: 30%;
+      width: 30%;
       border-width: 5px;
       border-style: solid;
       border-color: rgb(49, 44, 94);
@@ -31,6 +31,6 @@ body {
  div {
       text-align: center;    
       float: left;
-      width: 25%;
+      width: 20%;
     }
 

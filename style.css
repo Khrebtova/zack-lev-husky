@@ -20,7 +20,7 @@ body {
     margin-right: auto;
 }
  
-  #photos {
+  .photos {
       height: 30%;
       width: 30%;
       border-width: 5px;
@@ -34,3 +34,9 @@ body {
       width: 20%;
     }
 
+#myBtn {
+  font-size: 24px;
+  color: white;
+  background-color: rgb(11, 11, 59);
+
+}
